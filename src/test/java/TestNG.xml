@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="YourTestSuite">
+    <listeners>
+        <listener class-name="TestManager.SuiteListener"/>
+    </listeners>
+    <!-- Diğer suite konfigürasyonları ve testler -->
+    <test name="E2E Test">
+        <classes>
+            <class name="TestMain.TestClass"/>
+        </classes>
+    </test>
+</suite>

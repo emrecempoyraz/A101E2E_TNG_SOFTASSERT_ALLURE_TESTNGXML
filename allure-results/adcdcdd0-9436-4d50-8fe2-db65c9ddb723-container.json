@@ -1,0 +1,1 @@
+{"uuid":"adcdcdd0-9436-4d50-8fe2-db65c9ddb723","name":"A101E2ESoftAssert","children":["b6fbe683-1630-42e7-9e65-90bd190d9b4a"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1703273450928,"stop":1703273456649}],"afters":[],"start":1703273450904,"stop":1703273457213}
